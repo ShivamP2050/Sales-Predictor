@@ -1,2 +1,2 @@
 # Sales-Predictor
-Predicts the sales of a business on a monthly basis through deep analyzing of datasets and machine learning. Can be used to help businesses make sure they are hitting the sales they should be.
+This software can be used to check business sales and make sure they are hitting their monthly sales based on data trends from their past sales. Currently, the repo has a default monthly sales csv file with made-up sale values as a demonstration of how it works, but it does work on actual sales as well(couldn't release them here). Now don't forget to create your own Python virtual environment and download the libraries(pandas, scipy, matplotlib). Unfortunately, I couldn't find a way to upload mine due to file size.
